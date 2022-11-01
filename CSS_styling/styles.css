@@ -1,0 +1,214 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+  color: #1C6758;
+  font-family: 'Mea Culpa', cursive;
+  font-size: 5.4em;
+  margin: 0;
+}
+
+.contactdetailsheading{
+  color: #1C6758;
+  font-family: 'Mea Culpa', cursive;
+  font-size: 3em;
+  margin: 0;
+  padding-top: 1.4em;
+  padding-bottom: 0.5em;
+}
+
+.nested-page{
+  background-color: #E1FFEE;
+}
+
+.upperbio{
+  color: #1C6758;
+  font-size: 1.04em;
+}
+
+h2{
+  color: #009E55;
+  font-size: 2em;
+}
+
+h3{
+  color: #009E55;
+  font-size: 1.35em;
+}
+
+h4{
+  color: #009E55;
+}
+
+p{
+  color: #413F42;
+  font-family: 'Kaisei Decol', serif;
+  font-size: 1.05em;
+}
+
+hr{
+  border-color: #EEEEEE;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 3%;
+}
+
+.rulerinpage2{
+  border-color: #1C6758;
+  margin-top: 2em;
+}
+
+.myicon{
+  max-width: 30%;
+  margin: auto;
+}
+
+
+
+.top-container {
+  background-color: #E1FFEE;
+  position: relative;
+  width: 100%;
+  padding-top: 235px;
+  max-height: 32.58em;
+}
+
+.head{
+  position: relative;
+}
+
+.topcloud {
+  position: absolute;
+  left: 62%;
+  bottom: 52%;
+  max-width: 50%;
+}
+
+.bottomcloud {
+  position: absolute;
+  right: 62%;
+  bottom: 41%;
+  max-width: 50%;
+}
+
+.valley{
+  position: inherit;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  max-width: 60%;
+}
+
+
+
+.middle-container{
+  padding-top: 80px;
+}
+
+.education{
+  padding: 70px 0;
+}
+
+.hs{
+  padding-top: 10px;
+}
+
+.graduation{
+  width: 40%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.mainbio{
+  width: 20%;
+  margin: auto;
+  padding-bottom: 70px;
+}
+
+.booksimg{
+  max-width: 18%;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.skills{
+  padding: 70px 0;
+}
+
+.otherskills{
+  padding-top: 12px;
+}
+
+.puzzleimg{
+  max-width: 18%;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.contact-me{
+  padding: 70px 0;
+}
+
+.contact-icon{
+  max-width: 5.5em;
+  margin: auto;
+}
+
+.lastdetails{
+  width: 35%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.btn {
+  background: #00ad57;
+  background-image: -webkit-linear-gradient(top, #00ad57, #00664d);
+  background-image: -moz-linear-gradient(top, #00ad57, #00664d);
+  background-image: -ms-linear-gradient(top, #00ad57, #00664d);
+  background-image: -o-linear-gradient(top, #00ad57, #00664d);
+  background-image: linear-gradient(to bottom, #00ad57, #00664d);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+
+  font-family: 'Ubuntu', sans-serif;
+  color: #E1FFEE;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00664d;
+  color: #E1FFEE;
+  text-decoration: none;
+}
+
+.bottom-container{
+  margin-top: 2%;
+  background-color: #E1FFEE;
+  position: relative;
+  padding: 40px 0;
+}
+
+a{
+  color: #009E55;
+  font-family: 'Ubuntu', sans-serif;
+  padding: 0 12px 0 12px;
+}
+
+a:hover{
+  color: #F9C5D5;
+}
+
+.copyright{
+  padding-top: 30px;
+  padding-bottom: 15px;
+  font-size: 0.77em;
+  color: #009E55;
+}
