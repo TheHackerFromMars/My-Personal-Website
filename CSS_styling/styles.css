@@ -114,7 +114,14 @@ hr{
   padding: 70px 0;
 }
 
+.secondary{
+  width: 40%;
+  margin: auto;
+}
+
 .hs{
+  width: 40%;
+  margin: auto;
   padding-top: 10px;
 }
 
@@ -140,8 +147,18 @@ hr{
   padding: 70px 0;
 }
 
+.pro-lang{
+  width: 40%;
+  margin: auto;
+}
+
 .otherskills{
   padding-top: 12px;
+}
+
+.otherskillnames{
+  width: 40%;
+  margin: auto;
 }
 
 .puzzleimg{
